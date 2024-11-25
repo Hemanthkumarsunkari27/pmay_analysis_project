@@ -35,11 +35,6 @@ This project aims to analyze the impact of the Pradhan Mantri Awas Yojana (PMAY)
 
 ### Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
-
 2.Set up a virtual environment (optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
